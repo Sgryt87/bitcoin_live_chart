@@ -1,4 +1,5 @@
 #Python 3.7
-*tkinter
-*matplotlib
-*pandas
+* tkinter
+* matplotlib
+* pandas
+* numpy
