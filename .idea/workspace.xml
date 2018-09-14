@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/tkinter_trading_app$app.coverage" NAME="app Coverage Results" MODIFIED="1536944385582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter_trading_app$app.coverage" NAME="app Coverage Results" MODIFIED="1536959431113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="430224798">
@@ -25,7 +25,7 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="md" value="1" />
-          <entry key="py" value="20" />
+          <entry key="py" value="26" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
@@ -33,14 +33,14 @@
         <counts>
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="Python" value="20" />
+          <entry key="Python" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="2" />
           <entry key="md" value="71" />
-          <entry key="py" value="6351" />
+          <entry key="py" value="9005" />
           <entry key="sampleData" value="10" />
           <entry key="txt" value="34" />
         </counts>
@@ -49,7 +49,7 @@
         <counts>
           <entry key="Markdown" value="71" />
           <entry key="PLAIN_TEXT" value="46" />
-          <entry key="Python" value="6351" />
+          <entry key="Python" value="9005" />
         </counts>
       </usages-collector>
     </session>
@@ -59,18 +59,38 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="230" column="29" selection-start-line="230" selection-start-column="29" selection-end-line="230" selection-end-column="29" />
+            <state relative-caret-position="138">
+              <caret line="504" column="45" selection-start-line="504" selection-start-column="45" selection-end-line="504" selection-end-column="45" />
               <folding>
-                <marker date="1536944379297" expanded="true" signature="885:8678" ph="..." />
-                <marker date="1536944379297" expanded="true" signature="7941:7970" ph="..." />
-                <marker date="1536944379297" expanded="true" signature="7994:8678" ph="..." />
-                <marker date="1536944379297" expanded="true" signature="8271:8678" ph="..." />
-                <marker date="1536944379297" expanded="true" signature="9436:9648" ph="..." />
-                <marker date="1536944379297" expanded="true" signature="14154:14162" ph="..." />
-                <marker date="1536944379297" expanded="true" signature="14666:14684" ph="..." />
-                <marker date="1536944379297" expanded="true" signature="15565:16372" ph="..." />
+                <marker date="1536959543693" expanded="true" signature="1115:10387" ph="..." />
+                <marker date="1536959543693" expanded="true" signature="8171:9679" ph="..." />
+                <marker date="1536959543693" expanded="true" signature="8301:9679" ph="..." />
+                <marker date="1536959543693" expanded="true" signature="8428:9679" ph="..." />
+                <marker date="1536959543693" expanded="true" signature="9703:10387" ph="..." />
+                <marker date="1536959543693" expanded="true" signature="9980:10387" ph="..." />
+                <marker date="1536959543693" expanded="true" signature="17504:17838" ph="..." />
+                <marker date="1536959543693" expanded="true" signature="23793:23801" ph="..." />
+                <marker date="1536959543693" expanded="true" signature="24352:24370" ph="..." />
+                <marker date="1536959543693" expanded="true" signature="25251:26058" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/lib/python3.7/site-packages/matplotlib/pyplot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="1190" column="4" selection-start-line="1190" selection-start-column="4" selection-end-line="1190" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///usr/local/lib/python3.7/site-packages/matplotlib/axes/_axes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="199">
+              <caret line="4997" column="35" selection-start-line="4997" selection-start-column="35" selection-end-line="4997" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -98,11 +118,28 @@
       <find>datetime</find>
       <find>top</find>
       <find>topIndicator</find>
+      <find>tutor</find>
+      <find>tut3</find>
+      <find>sub</find>
+      <find>ms</find>
+      <find>[ms]</find>
+      <find>[s]</find>
+      <find>UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte</find>
+      <find>anima</find>
+      <find>animate</find>
       <find>&quot;</find>
+      <find>show</find>
+      <find>show_</find>
+      <find>icon</find>
+      <find>show_f</find>
+      <find>BTC-e</find>
+      <find>%H:M:S</find>
     </findStrings>
     <replaceStrings>
       <replace>ttk.Button</replace>
+      <replace>tut2</replace>
       <replace>'</replace>
+      <replace>%H:%M:%S</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -277,8 +314,8 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939634" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2874016" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39895013" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -306,13 +343,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="1450" column="51" selection-start-line="1450" selection-start-column="46" selection-end-line="1450" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/tkinter/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="2724" column="6" selection-start-line="2724" selection-start-column="6" selection-end-line="2724" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -388,19 +418,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/matplotlib/ticker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="1802" column="8" selection-start-line="1802" selection-start-column="8" selection-end-line="1802" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/matplotlib/axes/_axes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="4997" column="35" selection-start-line="4997" selection-start-column="35" selection-end-line="4997" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="1190" column="4" selection-start-line="1190" selection-start-column="4" selection-end-line="1190" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1995" column="6" selection-start-line="1995" selection-start-column="6" selection-end-line="1995" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="230" column="29" selection-start-line="230" selection-start-column="29" selection-end-line="230" selection-end-column="29" />
+        <state relative-caret-position="138">
+          <caret line="504" column="45" selection-start-line="504" selection-start-column="45" selection-end-line="504" selection-end-column="45" />
           <folding>
-            <marker date="1536944379297" expanded="true" signature="885:8678" ph="..." />
-            <marker date="1536944379297" expanded="true" signature="7941:7970" ph="..." />
-            <marker date="1536944379297" expanded="true" signature="7994:8678" ph="..." />
-            <marker date="1536944379297" expanded="true" signature="8271:8678" ph="..." />
-            <marker date="1536944379297" expanded="true" signature="9436:9648" ph="..." />
-            <marker date="1536944379297" expanded="true" signature="14154:14162" ph="..." />
-            <marker date="1536944379297" expanded="true" signature="14666:14684" ph="..." />
-            <marker date="1536944379297" expanded="true" signature="15565:16372" ph="..." />
+            <marker date="1536959543693" expanded="true" signature="1115:10387" ph="..." />
+            <marker date="1536959543693" expanded="true" signature="8171:9679" ph="..." />
+            <marker date="1536959543693" expanded="true" signature="8301:9679" ph="..." />
+            <marker date="1536959543693" expanded="true" signature="8428:9679" ph="..." />
+            <marker date="1536959543693" expanded="true" signature="9703:10387" ph="..." />
+            <marker date="1536959543693" expanded="true" signature="9980:10387" ph="..." />
+            <marker date="1536959543693" expanded="true" signature="17504:17838" ph="..." />
+            <marker date="1536959543693" expanded="true" signature="23793:23801" ph="..." />
+            <marker date="1536959543693" expanded="true" signature="24352:24370" ph="..." />
+            <marker date="1536959543693" expanded="true" signature="25251:26058" ph="..." />
           </folding>
         </state>
       </provider>
