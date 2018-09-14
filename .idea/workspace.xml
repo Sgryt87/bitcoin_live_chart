@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="421e11b9-d7a6-4e59-a1c4-752ba6c813ac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sampleData" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/tkinter_trading_app$app.coverage" NAME="app Coverage Results" MODIFIED="1536874254301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter_trading_app$app.coverage" NAME="app Coverage Results" MODIFIED="1536944385582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="430224798">
@@ -43,7 +40,7 @@
         <counts>
           <entry key="dummy" value="2" />
           <entry key="md" value="71" />
-          <entry key="py" value="3202" />
+          <entry key="py" value="6351" />
           <entry key="sampleData" value="10" />
           <entry key="txt" value="34" />
         </counts>
@@ -52,7 +49,7 @@
         <counts>
           <entry key="Markdown" value="71" />
           <entry key="PLAIN_TEXT" value="46" />
-          <entry key="Python" value="3202" />
+          <entry key="Python" value="6351" />
         </counts>
       </usages-collector>
     </session>
@@ -62,12 +59,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="151" column="55" selection-start-line="151" selection-start-column="55" selection-end-line="151" selection-end-column="55" />
+            <state relative-caret-position="146">
+              <caret line="230" column="29" selection-start-line="230" selection-start-column="29" selection-end-line="230" selection-end-column="29" />
               <folding>
-                <marker date="1536874237049" expanded="true" signature="1305:1517" ph="..." />
-                <marker date="1536874237049" expanded="true" signature="2869:2887" ph="..." />
-                <marker date="1536874237049" expanded="true" signature="3768:4575" ph="..." />
+                <marker date="1536944379297" expanded="true" signature="885:8678" ph="..." />
+                <marker date="1536944379297" expanded="true" signature="7941:7970" ph="..." />
+                <marker date="1536944379297" expanded="true" signature="7994:8678" ph="..." />
+                <marker date="1536944379297" expanded="true" signature="8271:8678" ph="..." />
+                <marker date="1536944379297" expanded="true" signature="9436:9648" ph="..." />
+                <marker date="1536944379297" expanded="true" signature="14154:14162" ph="..." />
+                <marker date="1536944379297" expanded="true" signature="14666:14684" ph="..." />
+                <marker date="1536944379297" expanded="true" signature="15565:16372" ph="..." />
               </folding>
             </state>
           </provider>
@@ -88,8 +90,15 @@
       <find>tk.Label</find>
       <find>TkAgg</find>
       <find>x</find>
-      <find>&quot;</find>
       <find>menu</find>
+      <find>Tk.con</find>
+      <find>tearoff</find>
+      <find>exchange</find>
+      <find>menubar</find>
+      <find>datetime</find>
+      <find>top</find>
+      <find>topIndicator</find>
+      <find>&quot;</find>
     </findStrings>
     <replaceStrings>
       <replace>ttk.Button</replace>
@@ -268,7 +277,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32939634" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.48687664" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -381,12 +390,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="151" column="55" selection-start-line="151" selection-start-column="55" selection-end-line="151" selection-end-column="55" />
+        <state relative-caret-position="146">
+          <caret line="230" column="29" selection-start-line="230" selection-start-column="29" selection-end-line="230" selection-end-column="29" />
           <folding>
-            <marker date="1536874237049" expanded="true" signature="1305:1517" ph="..." />
-            <marker date="1536874237049" expanded="true" signature="2869:2887" ph="..." />
-            <marker date="1536874237049" expanded="true" signature="3768:4575" ph="..." />
+            <marker date="1536944379297" expanded="true" signature="885:8678" ph="..." />
+            <marker date="1536944379297" expanded="true" signature="7941:7970" ph="..." />
+            <marker date="1536944379297" expanded="true" signature="7994:8678" ph="..." />
+            <marker date="1536944379297" expanded="true" signature="8271:8678" ph="..." />
+            <marker date="1536944379297" expanded="true" signature="9436:9648" ph="..." />
+            <marker date="1536944379297" expanded="true" signature="14154:14162" ph="..." />
+            <marker date="1536944379297" expanded="true" signature="14666:14684" ph="..." />
+            <marker date="1536944379297" expanded="true" signature="15565:16372" ph="..." />
           </folding>
         </state>
       </provider>
